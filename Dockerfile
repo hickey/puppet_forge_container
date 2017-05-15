@@ -1,4 +1,4 @@
-# FROM ghickey/puppet-forge:1.9.0
+# FROM ghickey/puppet_forge:1.9.0
 FROM ruby:2.4
 MAINTAINER "Gerard Hickey <hickey@kinetic-compute.com>"
 
